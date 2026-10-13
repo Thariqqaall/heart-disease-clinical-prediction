@@ -1,0 +1,13 @@
+# Ignore original bootcamp session names
+Sesi*.ipynb
+generate_heart_disease.pkl
+
+# Python virtual environment and cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Temporary / Scratch files
+scratch/
+*.log
